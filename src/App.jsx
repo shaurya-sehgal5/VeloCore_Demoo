@@ -1,11 +1,11 @@
-import Navbar from "./frontend/src/components/Navbar";
-import Hero from "./frontend/src/components/Hero";
-import Features from "./frontend/src/components/Features";
-import Pipeline from "./frontend/src/components/Pipeline";
-import Architecture from "./frontend/src/components/Architecture";
-import DeploymentInfo from "./frontend/src/components/DeploymentInfo";
-import TechStack from "./frontend/src/components/TechStack";
-import Footer from "./frontend/src/components/Footer";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Features from "./components/Features";
+import Pipeline from "./components/Pipeline";
+import Architecture from "./components/Architecture";
+import DeploymentInfo from "./components/DeploymentInfo";
+import TechStack from "./components/TechStack";
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
